@@ -69,7 +69,7 @@ nav>ul>li a{
        margin-right: 38px;
 }
 .header{
-       background-image: url(/images/header_bg.png) ,url(/images/developer.png);
+       background-image: url(../images/header_bg.png) ,url(../images/developer.png);
        background-repeat: no-repeat;
        background-position: right bottom, left top;
        background-color: #FFF8F3;
